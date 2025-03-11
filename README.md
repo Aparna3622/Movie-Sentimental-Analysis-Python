@@ -24,7 +24,7 @@ This project analyzes audience sentiments from IMDb movie reviews using natural 
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Dhanush2002-28/Movie-Sentiment-Analysis-Python
+   git clone https://github.com/Aparna3622/Movie-Sentiment-Analysis-Python
 
 ## Contributors  
 - [Dhanush C](https://github.com/Dhanush2002-28)  
